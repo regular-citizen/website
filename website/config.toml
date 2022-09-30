@@ -1,0 +1,10 @@
+baseURL = '/'
+languageCode = 'en-gb'
+theme = 'solar-theme-hugo'
+pygmentsStyle = 'solarized-dark'
+title = 'Chiara Sarti'
+copyright = ''
+
+[params]
+  scheme = 'dark'
+
