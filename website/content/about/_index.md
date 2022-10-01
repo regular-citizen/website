@@ -20,7 +20,7 @@ interests:
 
 affiliations:
     - affiliation:
-        title: "Ph.D. Candidate"
+        title: "Ph.D. Student"
         name: "University of Cambridge"
         email: "cs2197 AT cam.ac.uk"
 
@@ -44,7 +44,7 @@ academia:
         end_date: "2021"
 ---
 
-**CS PhD** candidate in [Jamie Vicary][1]'s group at the Cambridge [Computer Laboratory][2].
+CS PhD student in [Jamie Vicary][1]'s group at the Cambridge [Computer Laboratory][2].
 
 [1]:https://www.cl.cam.ac.uk/~jv258/
 [2]:https://www.cl.cam.ac.uk/research/clash/
