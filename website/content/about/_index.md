@@ -15,8 +15,8 @@ socials:
 
 interests:
     - Higher Category Theory
-	- Graphical Calculi
-	- Interactive Theorem Proving
+    - Graphical Calculi
+    - Interactive Theorem Proving
 
 affiliations:
     - affiliation:
