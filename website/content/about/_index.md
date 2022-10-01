@@ -14,7 +14,9 @@ socials:
     github: "regular-citizen"
 
 interests:
-    - Category Theory
+    - Higher Category Theory
+	- Graphical Calculi
+	- Interactive Theorem Proving
 
 affiliations:
     - affiliation:
@@ -42,6 +44,7 @@ academia:
         end_date: "2021"
 ---
 
-**CS PhD** candidate in [Jamie Vicary][1]'s group at the Cambridge Computer Laboratory.
+**CS PhD** candidate in [Jamie Vicary][1]'s group at the Cambridge [Computer Laboratory][2].
 
 [1]:https://www.cl.cam.ac.uk/~jv258/
+[2]:https://www.cl.cam.ac.uk/research/clash/
