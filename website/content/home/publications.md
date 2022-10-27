@@ -8,7 +8,7 @@ content_type: 'publications'
 section_settings:
     show_section: true
     title: 'Recent Publications/Preprints'
-    subtitle: 'Updated last on 2022-09-30'
+    subtitle: 'Updated last on 2022-10-27'
 ---
 
 home/publications.md
