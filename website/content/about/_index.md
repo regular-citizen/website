@@ -14,8 +14,9 @@ socials:
     github: "regular-citizen"
 
 interests:
-    - Higher Category Theory
+    - (Higher) Category Theory
     - Graphical Calculi
+    - Topos Theory
 
 affiliations:
     - affiliation:
@@ -43,7 +44,12 @@ academia:
         end_date: "2021"
 ---
 
-CS PhD student in [Jamie Vicary][1]'s group at the Cambridge [Computer Laboratory][2].
+I am a Computer Science PhD student in the [Cambridge Logical Structures Hub (CLASH)][1]. My supervisor is [Jamie Vicary][2].
 
-[1]:https://www.cl.cam.ac.uk/~jv258/
-[2]:https://www.cl.cam.ac.uk/research/clash/
+My research interests are focused around type theoretic approaches to higher category theory. Within this very broad area, I'm particularly interested in graphical calculi for higher categories.
+
+A good example of a project I am proud to have worked on is [homotopy.io][3]. It is a proof assistant which allows one to do constructions in synthetic homotopy theory entirely through a graphical calculus for finitely-presented semistrict globular n-categories. I have contributed to the implementation of the software, and I'm currently working on new foundations for the tool, with the aim of increasing its expressive power.
+
+[1]:https://www.cl.cam.ac.uk/research/clash/
+[2]:https://www.cl.cam.ac.uk/~jv258/
+[3]:https://github.com/homotopy-io/homotopy-rs
